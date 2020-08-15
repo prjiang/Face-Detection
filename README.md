@@ -1,2 +1,2 @@
 # faces-recognition
-Face recognition code and description file.
+Face recognition code and classifier.
