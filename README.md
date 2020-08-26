@@ -1,2 +1,2 @@
 # faces-recognition
-Built with Python 2.7, OpenCV2.
+Built with Python 3.8.1, OpenCV2.
