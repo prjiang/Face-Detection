@@ -1,2 +1,2 @@
 # faces-recognition
-Face recognition code and classifier.
+Built with Python 2.7, OpenCV2.
