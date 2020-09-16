@@ -1,2 +1,2 @@
-# Face-Recognition
+# Face-Detection
 Built with Python 3.8.1, OpenCV2.
